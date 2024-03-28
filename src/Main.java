@@ -15,6 +15,8 @@ public class Main {
             System.out.println("i = " + i*4);
             System.out.println("i = " + i*5);
             System.out.println("i = " + i*6);
+            System.out.println("i = " + i*7);
+            System.out.println("i = " + i*8);
 
         }
     }
